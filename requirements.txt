@@ -1,0 +1,9 @@
+#Prerequisites
+pip install streamlit langchain langchain-community chromadb pypdf ollama
+
+#Also, download a model in Ollama (like gemma, llama2, mistral, etc.):
+#ollama pull gemma
+
+
+#To Run in VS Code Terminal
+#streamlit run app.py
